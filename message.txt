@@ -1,1 +1,4 @@
 //The code is done, now you need to clean it up and add your assets!
+//Also, this repository only contains the java files
+//Assets like pictures and music are on drive, so you'll need to download those!
+//Status of game: polishing
